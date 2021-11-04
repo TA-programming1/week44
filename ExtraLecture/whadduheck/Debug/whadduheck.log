@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\bryte\Github_Projects\TA\Extra week 44\whadduheck\whadduheck\Source.cpp(115,6): warning C4101: 'arr': unreferenced local variable
+C:\Users\bryte\Github_Projects\TA\Extra week 44\whadduheck\whadduheck\Source.cpp(129,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bryte\Github_Projects\TA\Extra week 44\whadduheck\whadduheck\Source.cpp(157,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\bryte\Github_Projects\TA\Extra week 44\whadduheck\whadduheck\Source.cpp(162,19): warning C4018: '<': signed/unsigned mismatch
+  whadduheck.vcxproj -> C:\Users\bryte\Github_Projects\TA\Extra week 44\whadduheck\Debug\whadduheck.exe
